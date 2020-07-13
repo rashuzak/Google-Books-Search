@@ -1,0 +1,18 @@
+.card {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.btn {
+  margin-right: 2%;
+  right: 0;
+}
+
+img {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.card-body {
+  margin-left: 25px;
+}
